@@ -1,6 +1,6 @@
 # Activite-Pratique-N-4
 
-## objectif de l'atelier:
+## objectifs de l'atelier:
 Récupérer le code source de l'application non sécurisé qui permet de gérer les patients (résultat de l'activité pratique N°3). 
 Sécuriser cette application en intégrant un système d'authentification basé sur Spring security avec les trois stratégies : 
 -InMemoryAuthentication
