@@ -45,6 +45,11 @@ Sécuriser cette application en intégrant un système d'authentification basé 
   * Un Admin peut chercher, ajouter, modifier ou supprimer un patient :
   
   ![image](https://user-images.githubusercontent.com/72994860/232760652-93f182e0-3ac6-42bc-a2cd-a6d5d863a913.png)
+  
+  * Admin peut ajouter un patient 
+  
+  ![image](https://user-images.githubusercontent.com/72994860/232802213-117b2ccd-52fd-45c6-b2b9-b4fe3d86baf5.png)
+
 
 
 
