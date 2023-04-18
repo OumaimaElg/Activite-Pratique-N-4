@@ -20,10 +20,10 @@ public class HospitalAppApplication {
     @Bean
     CommandLineRunner start(PatientRepository patientRepository){
         return args -> {
-            patientRepository.save(new Patient(null,"Mohamed",new Date(),false,42));
-            patientRepository.save(new Patient(null,"Imane",new Date(),true,98));
-            patientRepository.save(new Patient(null,"Yassine",new Date(),true,342));
-            patientRepository.save(new Patient(null,"Laila",new Date(),false,123));
+            patientRepository.save(new Patient(null,"Lina",new Date(),false,52));
+            patientRepository.save(new Patient(null,"Salma",new Date(),true,67));
+            patientRepository.save(new Patient(null,"Adil",new Date(),true,32));
+            patientRepository.save(new Patient(null,"Rana",new Date(),false,98));
         };
     }
 
