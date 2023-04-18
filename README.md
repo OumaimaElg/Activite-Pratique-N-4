@@ -20,7 +20,7 @@ Sécuriser cette application en intégrant un système d'authentification basé 
   
   
   
-  ## * Capture d'ecrant de l'atelier
+   * Capture d'ecrant de l'atelier
   
   #### page d'authentification:
   
