@@ -20,29 +20,29 @@ Sécuriser cette application en intégrant un système d'authentification basé 
   
   
   
-   * Capture d'ecrant de l'atelier
+   # Compte Rendu et Capture d'ecrant de l'atelier
   
-  #### page d'authentification:
+  * page d'authentification:
   
   ![image](https://user-images.githubusercontent.com/72994860/232752580-f31b71ed-ec09-495a-b7d1-eae64028eb12.png)
   
-  #### L'interface si le compte est un compte USER :
+  * L'interface si le compte est un compte USER :
   
   ![image](https://user-images.githubusercontent.com/72994860/232757166-f9d895c2-6cbe-4522-b512-517360f87dba.png)
 
-  #### User peut chercher un patient et naviguer la pagination :
+  * User peut chercher un patient et naviguer la pagination :
   
   ![image](https://user-images.githubusercontent.com/72994860/232757377-0d4bd081-de85-46f4-ab1c-d569dd10223c.png)
   
-  #### un user n'est pas authoriser a supp un patient:
+  * un user n'est pas authoriser a supp un patient:
   
   ![image](https://user-images.githubusercontent.com/72994860/232758232-2cdbffa5-a707-4cd0-8ae2-1be8a480432f.png)
  
-  #### user Logout:
+  * user Logout:
    
    ![image](https://user-images.githubusercontent.com/72994860/232758776-73286e79-ea5e-4fd3-a7a6-fd532dfe4726.png)
   
-  #### Un Admin peut chercher, ajouter, modifier ou supprimer un patient :
+  * Un Admin peut chercher, ajouter, modifier ou supprimer un patient :
   
   ![image](https://user-images.githubusercontent.com/72994860/232760652-93f182e0-3ac6-42bc-a2cd-a6d5d863a913.png)
 
